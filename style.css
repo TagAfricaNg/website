@@ -608,6 +608,7 @@ p {
     flex-shrink: 0;
     height: 500px;
     width: 100%;
+    height: auto;
 }
 
 .t__team__list__item.loaded {
