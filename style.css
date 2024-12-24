@@ -151,7 +151,7 @@ p {
 
 /* hero section */
 .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), url('./assets/pexels-efrem-efre-2786187-28284658.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), url('https://res.cloudinary.com/uzoamakacloud/image/upload/v1735034254/pexels-efrem-efre-2786187-28284658.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -354,7 +354,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), url('./assets/rhondak-native-florida-folk-artist-_Yc7OtfFn-0-unsplash.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), urlhttps://res.cloudinary.com/uzoamakacloud/image/upload/v1735034283/rhondak-native-florida-folk-artist-_Yc7OtfFn-0-unsplash.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -434,7 +434,7 @@ p {
     display: flex;
     align-items: center;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), url('./assets/rohan-reddy-Ae4qJD-IdL8-unsplash.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), url('https://res.cloudinary.com/uzoamakacloud/image/upload/v1735034865/rohan-reddy-Ae4qJD-IdL8-unsplash.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -545,8 +545,7 @@ p {
     overflow: hidden;
     white-space: nowrap;
     margin-top: 1rem;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./assets/rhondak-native-florida-folk-artist-_Yc7OtfFn-0-unsplash.jpg');
-    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), url('./assets/quino-al-Lnou48GrIWc-unsplash.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), url('https://res.cloudinary.com/uzoamakacloud/image/upload/v1735034960/quino-al-Lnou48GrIWc-unsplash.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -795,7 +794,7 @@ button.t__faqs__item__btn:not(:nth-child(6)) {
 }
 
 .t__contact {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), url('./assets/rachel-coyne-U7HLzMO4SIY-unsplash.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), url('https://res.cloudinary.com/uzoamakacloud/image/upload/v1735035057/rachel-coyne-U7HLzMO4SIY-unsplash.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
