@@ -354,7 +354,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), urlhttps://res.cloudinary.com/uzoamakacloud/image/upload/v1735034283/rhondak-native-florida-folk-artist-_Yc7OtfFn-0-unsplash.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.81), rgba(0, 0, 0, 0.81)), url('https://res.cloudinary.com/uzoamakacloud/image/upload/v1735034283/rhondak-native-florida-folk-artist-_Yc7OtfFn-0-unsplash.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
